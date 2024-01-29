@@ -38,7 +38,7 @@ h1{
     color: #20A9E5;
 }
 
-div{
+.berner{
     background-image: url(./img/tim-1.jpg);
     width: 30%;
     height: 500px;
@@ -60,4 +60,24 @@ div{
 
 .evidenziatore{
     background-color: yellow;
+}
+
+table{
+    margin-top: 1%;
+}
+
+thead{
+    background-color: #20A9E5;
+}
+
+#intestazione-tabella{
+    color: white;
+}
+
+.tr-azzurre{
+    background-color: #B1E5F2;
+}
+
+.tr-larghe{
+    height: 100px;
 }
